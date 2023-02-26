@@ -1,24 +1,32 @@
 body {
-    background-color:#40513B
+    background-color:#181823;
+    color: #C0EEF2;
 }
 
 
 /*headers*/
 h1 {
-    color:#320038;
+    color: #C0EEF2;
 }
 
 .indexhead {
     font-family: Montserrat, sans-serif;
 }
 
-.navhead {
-    color: white;
-}
+
 
 /*navigation bar*/
 nav {
-    background-color: #320038;
+    background-color: #C0EEF2;
+    display: flex;
+    flex-flow: column wrap;
     text-align: center;
+}
+.navhead {
+    color: #181823;
+   
+}
+.navlinks{
+    
 }
 
