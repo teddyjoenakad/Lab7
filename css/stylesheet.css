@@ -38,3 +38,9 @@ main {
 .img {
     padding-left: 30px;
 }
+/*footer*/
+footer p {
+    color: #181823;
+    text-align: center;
+    background-color: #C0EEF2;
+}
