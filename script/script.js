@@ -18,3 +18,12 @@ for(b=0; b<courseList.length; b++){
         break
     }
 }
+
+if (true_value == true){
+    console.log(`Yes I am taking the course: ${courses} ${names}`)
+}
+else{
+    new_course = {code: user, name: null}
+    courseList.push(new_course)
+    console.log('Success')
+}
